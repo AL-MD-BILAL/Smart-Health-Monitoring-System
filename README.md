@@ -68,8 +68,6 @@ The Hardware required for working of the code include
 - MAX30100 sensor
 - MPU6050 Sensor
 - Jumper Wires
-
-Note : All of the above mentional libraries should be installed inside Arduino IDE via Library Manager (Sketch > Include Library > Manage Libraries)
 ```
 
 ## Circuit Diagram
