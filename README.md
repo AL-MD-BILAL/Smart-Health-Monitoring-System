@@ -67,6 +67,7 @@ The Hardware required for working of the code include
 - ESP8266 Board
 - MAX30100 sensor
 - MPU6050 Sensor
+- Breadboard
 - Jumper Wires
 ```
 
