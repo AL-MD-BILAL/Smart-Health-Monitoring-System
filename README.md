@@ -73,6 +73,7 @@ Note : All of the above mentional libraries should be installed inside Arduino I
 ```
 
 ## Circuit Diagram
+![Circuit Diagram](https://www.electronicwings.com/storage/PlatformSection/TopicContent/486/description/MAX30100%20Interfacing%20with%20NodeMCU(0).png)
 
 
 ## Usage
